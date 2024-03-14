@@ -58,7 +58,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Nhat Kappa Hoang',
     description: '',
     imageURL: '',
   },
