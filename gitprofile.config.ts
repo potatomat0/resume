@@ -93,6 +93,8 @@ const CONFIG = {
     'SQLite',
     'Wordpress',
     'PHP',
+    'Python',
+    'Django',
     'Linux',
     'Git/Github',
     'Laravel',
