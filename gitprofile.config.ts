@@ -102,15 +102,15 @@ const CONFIG = {
     'CSS/HTML',
     'Tailwind',
   ],
-  // experiences: [
-    // {
-    //   company: 'Company Name',
-    //   position: 'Position',
-    //   from: 'September 2021',
-    //   to: 'Present',
-    //   companyLink: 'https://example.com',
-    // },
-    // {
+  experiences: [
+    {
+      company: 'saigonEats',
+      position: 'Shopify Web Developer',
+      from: 'Jun 2024',
+      to: 'Sep 2024',
+      companyLink: 'saigoneats.vn',
+    },
+    {
     //   company: 'Company Name',
     //   position: 'Position',
     //   from: 'July 2019',
