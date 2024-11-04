@@ -118,27 +118,26 @@ const CONFIG = {
     //   companyLink: 'https://example.com',
     // },
   // ],
-  // certifications: [
-  //   {
-  //     name: 'Lorem ipsum',
-  //     body: 'Lorem ipsum dolor sit amet',
-  //     year: 'March 2022',
-  //     link: 'https://example.com',
-  //   },
-  // ],
+  certifications: [
+    {
+      name: 'IELTS',
+      body: 'Overall 8.0',
+      year: 'Oct 2024 - Oct 2026',
+    },
+  ],
   educations: [
     {
       institution: 'Information Technology College (ITC)',
-      degree: 'Degree',
+      degree: 'Advanced Diploma',
       from: '2021',
       to: '2023',
     },
-    // {
-    //   institution: 'Institution Name',
-    //   degree: 'Degree',
-    //   from: '2012',
-    //   to: '2014',
-    // },
+    {
+      institution: 'University of Information Technology (VNU-HCM UIT)',
+      degree: 'Bachelor Of Science',
+      // from: '2012',
+      to: '2026',
+    },
   ],
   // publications: [
   //   {
